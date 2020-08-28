@@ -1,0 +1,8 @@
+The value of (A 1 10) is 1024.
+The value of (A 2 4) is 65536.
+The value of (A 3 3) is 65536.
+
+When n is positive integer:
+(f n) computes 2n;
+(g n) computes 2^n;
+(h n) computes 2^(2^(2^...)), power tower, and the number of 2 is n(n > 1).if n = 1, (h n) = 2).
